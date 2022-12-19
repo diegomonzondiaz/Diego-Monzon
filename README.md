@@ -1,10 +1,5 @@
-- 👋 Hi, I’m Diego Monzon
-- 👀 I’m interested in Learn about programming and work as this
-- 🌱 I’m currently learning web programming and POO, runing servers of videogames and actually looking for works
-- 💞️ I’m looking to collaborate on Software projects
-- 📫 How to reach me monzondiego2017@gmail.com
-
-<!---
-Zayker69/Zayker69 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Conocimientos en tecnologias actuales (React y nodejs). Manejo otras tecnologias como Java, PHP, JS, y front.
+Proyectos realizados: Página web para empresa local (https://digitech.com.uy)
+Programa de gestion de empresa (Realizado en java).
+Con capacidad para establecer buenas relaciones interpersonales y trabajar en equipo. Proactivos, con habilidades de análisis, actitud positiva, disposición para aprender y gusto por trabajar en diferentes proyectos a la vez.
+Experiencia laboral limitada.
